@@ -1,0 +1,10 @@
+#Equinox secure storage version 1.0
+#Thu Apr 09 17:11:31 BRT 2015
+/jazz.net\:443/Jazz.net\ Community\ Site/basic/persist=com.ibm.cic.security.storage.capilanopasswordprovider\tPKYQbwv8ixI\=,BZC7l/BnTvM\=
+org.eclipse.equinox.security.preferences.version=1
+org.eclipse.equinox.security.preferences.cipher=PBEWithSHAAnd3KeyTripleDES
+/jazz.net\:443/Jazz.net\ Community\ Site/basic/uid=com.ibm.cic.security.storage.capilanopasswordprovider\tdlmowas/kDo\=,N0aOQdVWzfY\=
+org.eclipse.equinox.security.preferences.cic.defaultpasswordused=\t,ZmFsc2U\=
+org.eclipse.equinox.security.preferences.keyFactory=PBEWithSHAAnd3KeyTripleDES
+/jazz.net\:443/Jazz.net\ Community\ Site/basic/pwd=com.ibm.cic.security.storage.capilanopasswordprovider\t8j2GjKX5924\=,Dc1a3PJ/MWgedk0N8TqdgQ\=\=
+/org.eclipse.equinox.secure.storage/verification/com.ibm.cic.security.storage.capilanopasswordprovider=com.ibm.cic.security.storage.capilanopasswordprovider\tL5VcAvVU/5g\=,Y1KGMIrJc+nJcj1JvVHqQUkWWPnm6vlG

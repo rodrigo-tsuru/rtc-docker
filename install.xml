@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agent-input clean='true' temporary='true' >
+<server>
+        <repository location='https://jazz.net/downloads/clm/5.0.2/5.0.2/install-repository/clm-offerings/repository/repository.config' />
+</server>
+<install />
+</agent-input>
+
